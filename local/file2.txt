@@ -1,0 +1,1 @@
+password bitcoin: 12345
